@@ -1,9 +1,11 @@
 package classworks.lesson7;
 
+import java.util.Arrays;
+
 public class Main {
     public static void main(String[] args) {
-        DayOfWeek day = DayOfWeek.MONDAY;
-        day.watch();
+        DayOfWeek days = DayOfWeek.TUESDAY;
+        days.show();
 
     }
 }

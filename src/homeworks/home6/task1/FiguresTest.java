@@ -1,4 +1,4 @@
-package homeworks.home6;
+package homeworks.home6.task1;
 
 public class FiguresTest {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package homeworks.home6;
+package homeworks.home6.task1;
 
 public class Circle extends Figures {
     private double radius;

@@ -19,7 +19,5 @@ public class Main {
         StringBuilder stringBuilder=new StringBuilder("Java");
         stringBuilder.setCharAt(0,'c');
         System.out.println(stringBuilder);
-
-
     }
 }

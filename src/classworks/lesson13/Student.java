@@ -12,6 +12,10 @@ public class Student {
         marks = new ArrayList<>();
     }
 
+    public Student(String name) {
+        this.name = name;
+    }
+
     public Student(String name, String group, List<Float> marks) {
         this.name = name;
         this.group = group;
